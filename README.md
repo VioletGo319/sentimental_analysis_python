@@ -1,3 +1,4 @@
 # sentimental_analysis
 
-Task: Natural Language Processing, Classfication
+Task: Classfication
+Highlights: Natural Language Processing, BERT, Machine Learning, Deep Learning, Exploratory Data Analysis
